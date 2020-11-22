@@ -1,0 +1,28 @@
+Variable	Null-Count	Significance of NA	Replace With
+Pool QC	2917	No Pool in Property	No Pool
+Misc Feature	2824	No Miscellaneous Feature in Property	None
+Alley	2732	No Alley Access to Property	No Alley Access
+Fence	2358	No Fence at the Property	No Fence
+Fireplace Qu	1422	No Fireplace in Property	No Fireplace
+Lot Frontage	490	Frontage Area Likely Recorded	Remove Variable
+Garage Qual	159	No Garage in Property	No Garage
+Garage Yr Blt	159	No Garage in Property	No Garage
+Garage Cond	159	No Garage in Property	No Garage
+Garage Finish	159	No Garage in Property	No Garage
+Garage Type	157	No Garage in Property	No Garage
+Bsmt Exposure	83	No Basement for 80 of 83 observations. Properties with the PIDs 528445060, 528458090, and 907194130 have unknown exposure though there does appear to be a basement for those properties.	No Basement/Unknown
+BsmtFin Type 2	81	No Basement, with the exception of observation with PID 528142130, this does appear to be a basement and should appear as Unknown.	No Basement / Unknown
+BsmtFin Type 1	80	No Basement	No Basement
+Bsmt Cond	80	No Basement	No Basement
+Bsmt Qual	80	No Basement	No Basement
+Mas Vnr Type	23	All 23  observations of the Veneer Masonary and Veneer area are null. I'm inferring that means there's no Veneer for these properties.	None
+Mas Vnr Area	23	All 23  observations of the Veneer Masonary and Veneer area are null. I'm inferring that means there's no Veneer for these properties.	None
+Bsmt Full Bath	2	No Basement	0
+Bsmt Half Bath	2	No Basement	0
+Garage Area	1	No Garage in Property	0
+Garage Cars	1	No Garage in Property	0
+Total Bsmt SF	1	No Basement	0
+Bsmt Unf SF	1	No Basement	0
+BsmtFin SF 2	1	No Basement	0
+BsmtFin SF 1	1	No Basement	0
+Electrical	1	Other housing characteristics for this property have been provided, and the NA appears to indicate electrical information was missed.	Unknown
