@@ -16,7 +16,7 @@ BsmtFin Type 1	80	No Basement	No Basement
 Bsmt Cond	80	No Basement	No Basement
 Bsmt Qual	80	No Basement	No Basement
 Mas Vnr Type	23	All 23  observations of the Veneer Masonary and Veneer area are null. I'm inferring that means there's no Veneer for these properties.	None
-Mas Vnr Area	23	All 23  observations of the Veneer Masonary and Veneer area are null. I'm inferring that means there's no Veneer for these properties.	None
+Mas Vnr Area	23	All 23  observations of the Veneer Masonary and Veneer area are null. I'm inferring that means there's no Veneer for these properties.	0
 Bsmt Full Bath	2	No Basement	0
 Bsmt Half Bath	2	No Basement	0
 Garage Area	1	No Garage in Property	0
